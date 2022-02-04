@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OtpTestApp</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="sPref_score_key">searchValue</string>
+</resources>
